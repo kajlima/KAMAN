@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "dev.fathoor.kaman"
+    namespace = "dev.kaman"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "dev.fathoor.kaman"
+        applicationId = "dev.kaman"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
