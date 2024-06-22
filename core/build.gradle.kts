@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "dev.fathoor.core"
+    namespace = "dev.kaman.core"
     compileSdk = 34
 
     compileOptions {
